@@ -1,3 +1,3 @@
 # JupytetNoteBooks
 
-Dailary works.
+Daily works.
