@@ -1,0 +1,367 @@
+12-25-2019 08:25:56 root:DEBUG:This is a debug message
+12-25-2019 08:25:56 root:INFO:This is an info message
+12-25-2019 08:25:56 root:WARNING:This is a warning message
+12-25-2019 08:25:56 root:ERROR:This is an error message
+12-25-2019 08:25:56 root:CRITICAL:This is a critical message
+12-26-2019 08:26:10 root:INFO:base_name: 17
+12-26-2019 08:26:10 root:INFO:base_name: 30
+12-26-2019 08:26:10 root:INFO:base_name: 44
+12-26-2019 08:26:10 root:INFO:base_name: 60
+12-26-2019 08:26:10 root:INFO:base_name: 72
+12-26-2019 08:26:10 root:INFO:base_name: 85
+12-26-2019 08:26:10 root:INFO:base_name: 96
+12-26-2019 08:26:10 root:INFO:base_name: 111
+12-26-2019 08:26:10 root:INFO:base_name: 126
+12-26-2019 08:26:10 root:INFO:base_name: 137
+12-26-2019 08:26:10 root:INFO:base_name: 155
+12-26-2019 08:26:10 root:INFO:base_name: 165
+12-26-2019 08:26:10 root:INFO:base_name: 176
+12-26-2019 08:26:10 root:INFO:base_name: 186
+12-26-2019 08:26:10 root:INFO:base_name: 198
+12-26-2019 08:26:10 root:INFO:base_name: 211
+12-26-2019 08:26:10 root:INFO:base_name: 221
+12-26-2019 08:26:10 root:INFO:base_name: 231
+12-26-2019 08:26:10 root:INFO:base_name: 241
+12-26-2019 08:26:10 root:INFO:base_name: 251
+12-26-2019 08:26:10 root:INFO:base_name: 262
+12-26-2019 08:26:10 root:INFO:base_name: 272
+12-26-2019 08:26:10 root:INFO:base_name: 282
+12-26-2019 08:26:10 root:INFO:base_name: 292
+12-26-2019 08:26:10 root:INFO:base_name: 303
+12-26-2019 08:26:10 root:INFO:base_name: 313
+12-26-2019 08:26:10 root:INFO:base_name: 327
+12-26-2019 08:26:10 root:INFO:base_name: 339
+12-26-2019 08:26:10 root:INFO:base_name: 353
+12-26-2019 08:26:10 root:INFO:base_name: 366
+12-26-2019 08:26:10 root:INFO:base_name: 378
+12-26-2019 08:26:10 root:INFO:base_name: 390
+12-26-2019 08:26:10 root:INFO:base_name: 401
+12-26-2019 08:26:10 root:INFO:base_name: 412
+12-26-2019 08:26:10 root:INFO:base_name: 426
+12-26-2019 08:26:24 root:INFO:base_name: 17
+12-26-2019 08:26:24 root:INFO:base_name: 30
+12-26-2019 08:26:24 root:INFO:base_name: 44
+12-26-2019 08:26:24 root:INFO:base_name: 60
+12-26-2019 08:26:24 root:INFO:base_name: 72
+12-26-2019 08:26:24 root:INFO:base_name: 85
+12-26-2019 08:26:24 root:INFO:base_name: 96
+12-26-2019 08:26:24 root:INFO:base_name: 111
+12-26-2019 08:26:24 root:INFO:base_name: 126
+12-26-2019 08:26:24 root:INFO:base_name: 137
+12-26-2019 08:26:24 root:INFO:base_name: 155
+12-26-2019 08:26:24 root:INFO:base_name: 165
+12-26-2019 08:26:24 root:INFO:base_name: 176
+12-26-2019 08:26:24 root:INFO:base_name: 186
+12-26-2019 08:26:24 root:INFO:base_name: 198
+12-26-2019 08:26:24 root:INFO:base_name: 211
+12-26-2019 08:26:24 root:INFO:base_name: 221
+12-26-2019 08:26:24 root:INFO:base_name: 231
+12-26-2019 08:26:24 root:INFO:base_name: 241
+12-26-2019 08:26:24 root:INFO:base_name: 251
+12-26-2019 08:26:24 root:INFO:base_name: 262
+12-26-2019 08:26:24 root:INFO:base_name: 272
+12-26-2019 08:26:24 root:INFO:base_name: 282
+12-26-2019 08:26:24 root:INFO:base_name: 292
+12-26-2019 08:26:24 root:INFO:base_name: 303
+12-26-2019 08:26:24 root:INFO:base_name: 313
+12-26-2019 08:26:24 root:INFO:base_name: 327
+12-26-2019 08:26:24 root:INFO:base_name: 339
+12-26-2019 08:26:24 root:INFO:base_name: 353
+12-26-2019 08:26:24 root:INFO:base_name: 366
+12-26-2019 08:26:24 root:INFO:base_name: 378
+12-26-2019 08:26:24 root:INFO:base_name: 390
+12-26-2019 08:26:24 root:INFO:base_name: 401
+12-26-2019 08:26:24 root:INFO:base_name: 412
+12-26-2019 08:26:24 root:INFO:base_name: 426
+12-26-2019 08:26:32 root:INFO:This is an info message
+12-26-2019 08:26:32 root:WARNING:This is a warning message
+12-26-2019 08:26:32 root:ERROR:This is an error message
+12-26-2019 08:26:32 root:CRITICAL:This is a critical message
+12-26-2019 08:26:36 root:INFO:This is an info message
+12-26-2019 08:26:36 root:WARNING:This is a warning message
+12-26-2019 08:26:36 root:ERROR:This is an error message
+12-26-2019 08:26:36 root:CRITICAL:This is a critical message
+12-26-2019 08:26:38 root:INFO:this is info
+12-26-2019 08:26:38 root:DEBUG:this is debug
+12-26-2019 08:26:56 root:DEBUG:This is a debug message
+12-26-2019 08:26:56 root:INFO:This is an info message
+12-26-2019 08:26:56 root:WARNING:This is a warning message
+12-26-2019 08:26:56 root:ERROR:This is an error message
+12-26-2019 08:26:56 root:CRITICAL:This is a critical message
+12-26-2019 08:26:57 root:INFO:this is info
+12-26-2019 08:26:57 root:DEBUG:this is debug
+12-27-2019 08:27:05 root:INFO:base_name: 17
+12-27-2019 08:27:05 root:INFO:base_name: 30
+12-27-2019 08:27:05 root:INFO:base_name: 44
+12-27-2019 08:27:05 root:INFO:base_name: 60
+12-27-2019 08:27:05 root:INFO:base_name: 72
+12-27-2019 08:27:05 root:INFO:base_name: 85
+12-27-2019 08:27:05 root:INFO:base_name: 96
+12-27-2019 08:27:05 root:INFO:base_name: 111
+12-27-2019 08:27:05 root:INFO:base_name: 126
+12-27-2019 08:27:05 root:INFO:base_name: 137
+12-27-2019 08:27:05 root:INFO:base_name: 155
+12-27-2019 08:27:05 root:INFO:base_name: 165
+12-27-2019 08:27:05 root:INFO:base_name: 176
+12-27-2019 08:27:05 root:INFO:base_name: 186
+12-27-2019 08:27:05 root:INFO:base_name: 198
+12-27-2019 08:27:05 root:INFO:base_name: 211
+12-27-2019 08:27:05 root:INFO:base_name: 221
+12-27-2019 08:27:05 root:INFO:base_name: 231
+12-27-2019 08:27:05 root:INFO:base_name: 241
+12-27-2019 08:27:05 root:INFO:base_name: 251
+12-27-2019 08:27:05 root:INFO:base_name: 262
+12-27-2019 08:27:05 root:INFO:base_name: 272
+12-27-2019 08:27:05 root:INFO:base_name: 282
+12-27-2019 08:27:05 root:INFO:base_name: 292
+12-27-2019 08:27:05 root:INFO:base_name: 303
+12-27-2019 08:27:05 root:INFO:base_name: 313
+12-27-2019 08:27:05 root:INFO:base_name: 327
+12-27-2019 08:27:05 root:INFO:base_name: 339
+12-27-2019 08:27:05 root:INFO:base_name: 353
+12-27-2019 08:27:05 root:INFO:base_name: 366
+12-27-2019 08:27:05 root:INFO:base_name: 378
+12-27-2019 08:27:05 root:INFO:base_name: 390
+12-27-2019 08:27:05 root:INFO:base_name: 401
+12-27-2019 08:27:05 root:INFO:base_name: 412
+12-27-2019 08:27:05 root:INFO:base_name: 426
+12-27-2019 08:27:45 root:INFO:this is info
+12-27-2019 08:27:45 root:DEBUG:this is debug
+12-27-2019 08:27:48 root:INFO:this is info
+12-27-2019 08:27:48 root:DEBUG:this is debug
+12-27-2019 08:27:52 root:DEBUG:This is a debug message
+12-27-2019 08:27:52 root:INFO:This is an info message
+12-27-2019 08:27:52 root:WARNING:This is a warning message
+12-27-2019 08:27:52 root:ERROR:This is an error message
+12-27-2019 08:27:52 root:CRITICAL:This is a critical message
+12-28-2019 08:28:24 root:INFO:this is info
+12-28-2019 08:28:24 root:DEBUG:this is debug
+12-28-2019 08:28:33 root:INFO:this is info
+12-28-2019 08:28:33 root:DEBUG:this is debug
+12-28-2019 08:28:40 root:INFO:this is info
+12-28-2019 08:28:40 root:DEBUG:this is debug
+12-28-2019 08:28:57 root:INFO:this is info
+12-28-2019 08:28:57 root:DEBUG:this is debug
+12-29-2019 08:29:07 root:INFO:this is info
+12-29-2019 08:29:07 root:DEBUG:this is debug
+12-29-2019 08:29:16 root:INFO:this is info
+12-29-2019 08:29:16 root:DEBUG:this is debug
+12-29-2019 08:29:35 root:INFO:this is info
+12-29-2019 08:29:35 root:DEBUG:this is debug
+12-29-2019 08:29:59 root:INFO:base_name: 17
+12-30-2019 08:30:00 root:INFO:base_name: 30
+12-30-2019 08:30:00 root:INFO:base_name: 44
+12-30-2019 08:30:00 root:INFO:base_name: 60
+12-30-2019 08:30:00 root:INFO:base_name: 72
+12-30-2019 08:30:00 root:INFO:base_name: 85
+12-30-2019 08:30:00 root:INFO:base_name: 96
+12-30-2019 08:30:00 root:INFO:base_name: 111
+12-30-2019 08:30:00 root:INFO:base_name: 126
+12-30-2019 08:30:00 root:INFO:base_name: 137
+12-30-2019 08:30:00 root:INFO:base_name: 155
+12-30-2019 08:30:00 root:INFO:base_name: 165
+12-30-2019 08:30:00 root:INFO:base_name: 176
+12-30-2019 08:30:00 root:INFO:base_name: 186
+12-30-2019 08:30:00 root:INFO:base_name: 198
+12-30-2019 08:30:00 root:INFO:base_name: 211
+12-30-2019 08:30:00 root:INFO:base_name: 221
+12-30-2019 08:30:00 root:INFO:base_name: 231
+12-30-2019 08:30:00 root:INFO:base_name: 241
+12-30-2019 08:30:00 root:INFO:base_name: 251
+12-30-2019 08:30:00 root:INFO:base_name: 262
+12-30-2019 08:30:00 root:INFO:base_name: 272
+12-30-2019 08:30:00 root:INFO:base_name: 282
+12-30-2019 08:30:00 root:INFO:base_name: 292
+12-30-2019 08:30:00 root:INFO:base_name: 303
+12-30-2019 08:30:00 root:INFO:base_name: 313
+12-30-2019 08:30:00 root:INFO:base_name: 327
+12-30-2019 08:30:00 root:INFO:base_name: 339
+12-30-2019 08:30:00 root:INFO:base_name: 353
+12-30-2019 08:30:00 root:INFO:base_name: 366
+12-30-2019 08:30:00 root:INFO:base_name: 378
+12-30-2019 08:30:00 root:INFO:base_name: 390
+12-30-2019 08:30:00 root:INFO:base_name: 401
+12-30-2019 08:30:00 root:INFO:base_name: 412
+12-30-2019 08:30:00 root:INFO:base_name: 426
+12-32-2019 08:32:48 root:INFO:base_name: 17
+12-32-2019 08:32:48 root:INFO:base_name: 30
+12-32-2019 08:32:48 root:INFO:base_name: 44
+12-32-2019 08:32:48 root:INFO:base_name: 60
+12-32-2019 08:32:48 root:INFO:base_name: 72
+12-32-2019 08:32:48 root:INFO:base_name: 85
+12-32-2019 08:32:48 root:INFO:base_name: 96
+12-32-2019 08:32:48 root:INFO:base_name: 111
+12-32-2019 08:32:48 root:INFO:base_name: 126
+12-32-2019 08:32:48 root:INFO:base_name: 137
+12-32-2019 08:32:48 root:INFO:base_name: 155
+12-32-2019 08:32:48 root:INFO:base_name: 165
+12-32-2019 08:32:48 root:INFO:base_name: 176
+12-32-2019 08:32:48 root:INFO:base_name: 186
+12-32-2019 08:32:48 root:INFO:base_name: 198
+12-32-2019 08:32:48 root:INFO:base_name: 211
+12-32-2019 08:32:48 root:INFO:base_name: 221
+12-32-2019 08:32:48 root:INFO:base_name: 231
+12-32-2019 08:32:48 root:INFO:base_name: 241
+12-32-2019 08:32:48 root:INFO:base_name: 251
+12-32-2019 08:32:48 root:INFO:base_name: 262
+12-32-2019 08:32:48 root:INFO:base_name: 272
+12-32-2019 08:32:48 root:INFO:base_name: 282
+12-32-2019 08:32:48 root:INFO:base_name: 292
+12-32-2019 08:32:48 root:INFO:base_name: 303
+12-32-2019 08:32:48 root:INFO:base_name: 313
+12-32-2019 08:32:48 root:INFO:base_name: 327
+12-32-2019 08:32:48 root:INFO:base_name: 339
+12-32-2019 08:32:48 root:INFO:base_name: 353
+12-32-2019 08:32:48 root:INFO:base_name: 366
+12-32-2019 08:32:48 root:INFO:base_name: 378
+12-32-2019 08:32:48 root:INFO:base_name: 390
+12-32-2019 08:32:48 root:INFO:base_name: 401
+12-32-2019 08:32:48 root:INFO:base_name: 412
+12-32-2019 08:32:48 root:INFO:base_name: 426
+12-33-2019 08:33:04 root:INFO:base_name: 17
+12-33-2019 08:33:04 root:INFO:base_name: 30
+12-33-2019 08:33:04 root:INFO:base_name: 44
+12-33-2019 08:33:04 root:INFO:base_name: 60
+12-33-2019 08:33:04 root:INFO:base_name: 72
+12-33-2019 08:33:04 root:INFO:base_name: 85
+12-33-2019 08:33:04 root:INFO:base_name: 96
+12-33-2019 08:33:04 root:INFO:base_name: 111
+12-33-2019 08:33:04 root:INFO:base_name: 126
+12-33-2019 08:33:04 root:INFO:base_name: 137
+12-33-2019 08:33:04 root:INFO:base_name: 155
+12-33-2019 08:33:04 root:INFO:base_name: 165
+12-33-2019 08:33:04 root:INFO:base_name: 176
+12-33-2019 08:33:04 root:INFO:base_name: 186
+12-33-2019 08:33:04 root:INFO:base_name: 198
+12-33-2019 08:33:04 root:INFO:base_name: 211
+12-33-2019 08:33:04 root:INFO:base_name: 221
+12-33-2019 08:33:04 root:INFO:base_name: 231
+12-33-2019 08:33:04 root:INFO:base_name: 241
+12-33-2019 08:33:04 root:INFO:base_name: 251
+12-33-2019 08:33:04 root:INFO:base_name: 262
+12-33-2019 08:33:04 root:INFO:base_name: 272
+12-33-2019 08:33:04 root:INFO:base_name: 282
+12-33-2019 08:33:04 root:INFO:base_name: 292
+12-33-2019 08:33:04 root:INFO:base_name: 303
+12-33-2019 08:33:04 root:INFO:base_name: 313
+12-33-2019 08:33:04 root:INFO:base_name: 327
+12-33-2019 08:33:04 root:INFO:base_name: 339
+12-33-2019 08:33:04 root:INFO:base_name: 353
+12-33-2019 08:33:04 root:INFO:base_name: 366
+12-33-2019 08:33:04 root:INFO:base_name: 378
+12-33-2019 08:33:04 root:INFO:base_name: 390
+12-33-2019 08:33:04 root:INFO:base_name: 401
+12-33-2019 08:33:04 root:INFO:base_name: 412
+12-33-2019 08:33:04 root:INFO:base_name: 426
+12-33-2019 08:33:37 root:INFO:base_name: 17
+12-33-2019 08:33:37 root:INFO:base_name: 30
+12-33-2019 08:33:37 root:INFO:base_name: 44
+12-33-2019 08:33:37 root:INFO:base_name: 60
+12-33-2019 08:33:37 root:INFO:base_name: 72
+12-33-2019 08:33:37 root:INFO:base_name: 85
+12-33-2019 08:33:37 root:INFO:base_name: 96
+12-33-2019 08:33:37 root:INFO:base_name: 111
+12-33-2019 08:33:37 root:INFO:base_name: 126
+12-33-2019 08:33:37 root:INFO:base_name: 137
+12-33-2019 08:33:37 root:INFO:base_name: 155
+12-33-2019 08:33:37 root:INFO:base_name: 165
+12-33-2019 08:33:37 root:INFO:base_name: 176
+12-33-2019 08:33:37 root:INFO:base_name: 186
+12-33-2019 08:33:37 root:INFO:base_name: 198
+12-33-2019 08:33:37 root:INFO:base_name: 211
+12-33-2019 08:33:37 root:INFO:base_name: 221
+12-33-2019 08:33:37 root:INFO:base_name: 231
+12-33-2019 08:33:37 root:INFO:base_name: 241
+12-33-2019 08:33:37 root:INFO:base_name: 251
+12-33-2019 08:33:37 root:INFO:base_name: 262
+12-33-2019 08:33:37 root:INFO:base_name: 272
+12-33-2019 08:33:37 root:INFO:base_name: 282
+12-33-2019 08:33:37 root:INFO:base_name: 292
+12-33-2019 08:33:37 root:INFO:base_name: 303
+12-33-2019 08:33:37 root:INFO:base_name: 313
+12-33-2019 08:33:37 root:INFO:base_name: 327
+12-33-2019 08:33:37 root:INFO:base_name: 339
+12-33-2019 08:33:37 root:INFO:base_name: 353
+12-33-2019 08:33:37 root:INFO:base_name: 366
+12-33-2019 08:33:37 root:INFO:base_name: 378
+12-33-2019 08:33:37 root:INFO:base_name: 390
+12-33-2019 08:33:37 root:INFO:base_name: 401
+12-33-2019 08:33:37 root:INFO:base_name: 412
+12-33-2019 08:33:37 root:INFO:base_name: 426
+12-30-2019 09:30:57 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-31-2019 09:31:03 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-31-2019 09:31:06 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-31-2019 09:31:11 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-31-2019 09:31:16 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-31-2019 09:31:19 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-31-2019 09:31:24 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-31-2019 09:31:28 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-31-2019 09:31:33 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-31-2019 09:31:38 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-31-2019 09:31:42 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-31-2019 09:31:47 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-31-2019 09:31:52 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-31-2019 09:31:57 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-32-2019 09:32:02 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-33-2019 09:33:18 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-33-2019 09:33:25 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-33-2019 09:33:29 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-34-2019 09:34:42 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-34-2019 09:34:49 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-34-2019 09:34:54 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-35-2019 09:35:00 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-40-2019 09:40:04 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-40-2019 09:40:11 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-40-2019 09:40:16 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-40-2019 09:40:22 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-40-2019 09:40:29 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-40-2019 09:40:34 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-40-2019 09:40:40 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-40-2019 09:40:46 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-40-2019 09:40:53 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-40-2019 09:40:59 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-41-2019 09:41:05 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-41-2019 09:41:12 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-41-2019 09:41:19 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-41-2019 09:41:26 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-41-2019 09:41:33 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-41-2019 09:41:39 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-41-2019 09:41:45 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-41-2019 09:41:51 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-41-2019 09:41:58 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-42-2019 09:42:02 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-42-2019 09:42:08 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-42-2019 09:42:13 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-42-2019 09:42:19 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-42-2019 09:42:25 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-42-2019 09:42:30 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-42-2019 09:42:36 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-42-2019 09:42:41 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-42-2019 09:42:46 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-42-2019 09:42:53 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-42-2019 09:42:59 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-43-2019 09:43:05 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-43-2019 09:43:10 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-43-2019 09:43:16 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-43-2019 09:43:21 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-43-2019 09:43:28 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-44-2019 09:44:05 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-44-2019 09:44:13 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-44-2019 09:44:17 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-44-2019 09:44:23 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-44-2019 09:44:30 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-44-2019 09:44:38 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-44-2019 09:44:45 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-44-2019 09:44:50 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-45-2019 09:45:38 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-45-2019 09:45:45 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-45-2019 09:45:49 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-45-2019 09:45:54 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-57-2019 09:57:49 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-57-2019 09:57:55 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-57-2019 09:57:59 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-02-2019 10:02:39 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-02-2019 10:02:45 imageio:WARNING:Lossy conversion from int32 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-03-2019 10:03:19 imageio:WARNING:Lossy conversion from int8 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-03-2019 10:03:25 imageio:WARNING:Lossy conversion from int8 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+12-03-2019 10:03:29 imageio:WARNING:Lossy conversion from int8 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
